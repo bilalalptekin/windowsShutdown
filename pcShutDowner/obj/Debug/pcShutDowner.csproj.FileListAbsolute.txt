@@ -1,0 +1,10 @@
+C:\Users\bilal\source\repos\pcShutDowner\pcShutDowner\bin\Debug\pcShutDowner.exe.config
+C:\Users\bilal\source\repos\pcShutDowner\pcShutDowner\bin\Debug\pcShutDowner.exe
+C:\Users\bilal\source\repos\pcShutDowner\pcShutDowner\bin\Debug\pcShutDowner.pdb
+C:\Users\bilal\source\repos\pcShutDowner\pcShutDowner\obj\Debug\pcShutDowner.csprojAssemblyReference.cache
+C:\Users\bilal\source\repos\pcShutDowner\pcShutDowner\obj\Debug\pcShutDowner.Form1.resources
+C:\Users\bilal\source\repos\pcShutDowner\pcShutDowner\obj\Debug\pcShutDowner.Properties.Resources.resources
+C:\Users\bilal\source\repos\pcShutDowner\pcShutDowner\obj\Debug\pcShutDowner.csproj.GenerateResource.cache
+C:\Users\bilal\source\repos\pcShutDowner\pcShutDowner\obj\Debug\pcShutDowner.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\pcShutDowner\pcShutDowner\obj\Debug\pcShutDowner.exe
+C:\Users\bilal\source\repos\pcShutDowner\pcShutDowner\obj\Debug\pcShutDowner.pdb
